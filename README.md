@@ -4,7 +4,7 @@
 
 📍 Jaipur, Rajasthan, India &nbsp;|&nbsp; 🌐 Open to Full-Time & Remote Work &nbsp;|&nbsp; ⚡ Available Immediately
 
-Results-driven **Shopify Developer with 9+ years of experience** building high-performance eCommerce stores, custom Shopify 2.0 themes, and end-to-end third-party integrations. I turn Figma designs into pixel-perfect, conversion-focused storefronts — and connect them to **AI tools (Claude API, Shopify MCP)** and **n8n automation** for smarter eCommerce operations.
+Results-driven **Shopify Developer with 8+ years of experience** building high-performance eCommerce stores, custom Shopify 2.0 themes, and end-to-end third-party integrations. I turn Figma designs into pixel-perfect, conversion-focused storefronts — and connect them to **AI tools (Claude API, Shopify MCP)** and **n8n automation** for smarter eCommerce operations.
 
 ---
 
