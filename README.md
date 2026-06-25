@@ -49,14 +49,14 @@ Results-driven **Shopify Developer with 8+ years of experience** building high-p
 
 ---
 
-### 🚀 Featured Work
+## 🚀 Featured Work
 
 | Project | Focus |
-|---|---|
-| **B2B AI-Commerce Platform** | Shopify MCP · Claude AI API · n8n automation |
-| **Handicraft & Fashion Stores** | Figma-to-HTML · Klaviyo · CRO & A/B testing |
-| **Pharma eCommerce** | Compliance workflows · age-gate · prescription upload |
-| **Premium Home Decor (3,000+ SKUs)** | Custom theme · advanced filters · ReCharge subscriptions |
+|---------|-------|
+| **Casa Decor** | Premium home decor, 3,000+ SKUs · PageSpeed 52→78 desktop (44→71 mobile), advanced filters, ReCharge subscriptions |
+| **Enjeee** | D2C footwear · conversion-focused Shopify 2.0 build, A/B-tested UI, improved add-to-cart |
+| **Chemco Pharmacy** | Pharma eCommerce · age-gate, prescription upload, compliance workflows |
+| **L Factor Cosmetics** | Beauty & cosmetics (freelance) · custom theme, product/collection UX |
 
 > 📌 Check out my **pinned repositories** below for code samples, reusable Shopify sections, and automation templates.
 
