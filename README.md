@@ -42,7 +42,7 @@ Results-driven **Shopify Developer with 8+ years of experience** building high-p
 
 - 🎨 **Figma → Code** — Pixel-perfect, responsive Shopify themes from design files
 - 🧩 **Shopify 2.0** — Custom sections, blocks, metafields & metaobjects, theme architecture
-- ⚡ **Performance** — Core Web Vitals & PageSpeed optimization (e.g. improved a store from 52 → 78 on desktop)
+- ⚡ **Performance** — Core Web Vitals & PageSpeed optimization (e.g. improved a 3,000+ SKU store from 52→78 desktop, 44→71 mobile)
 - 🤖 **AI-Powered Commerce** — Claude API for product descriptions, Shopify MCP for AI-assisted development
 - 🔁 **Automation** — n8n workflows for order alerts, inventory sync, abandoned-cart & customer follow-ups
 - 🔌 **Integrations** — Klaviyo, Yotpo, Judge.me, ReCharge, Gorgias, Loox, Privy, Razorpay, PayU, Stripe
